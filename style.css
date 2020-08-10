@@ -1,0 +1,94 @@
+body{
+    background-image: url(https://images.pexels.com/photos/2847648/pexels-photo-2847648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    font-family: 'Laila' !important;
+}
+
+
+.container{
+    margin-top: 20px;
+    outline: none;
+    
+}
+
+.card{
+    box-shadow:  2px grey !important;
+    border: none !important;
+    outline: none !important;
+}
+
+.card-header{
+    background-color: rgb(121, 80, 160);
+}
+
+.card-footer{
+    background-color: rgb(184, 183, 181);
+}
+
+.card-text {
+    cursor: pointer;
+    padding: 5px 10px;
+    
+    
+}
+
+.card-text:hover,
+.active {
+    background: #831c97;  /* fallback for old browsers */
+    color: white;
+    border-radius: 2cm;
+}
+
+#nextbtn{
+    text-decoration: none !important;
+    outline: none !important;
+    border: none !important;
+}
+
+
+.m{
+    
+    font-family: 'Laila' ;
+    align-items: center !important;
+    margin-top: 90px;   
+}
+
+.m input{
+    border: none;
+    text-decoration: none;
+    outline: none;
+    background: transparent;
+    font-size: 15px;
+    line-height: .5cm;
+}
+
+.m hr{
+    width:  200px;
+    color: black;
+}
+
+.m a{
+    color: black;
+}
+
+.result{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ 
+.btn{
+    width: 180px;
+    height:40px;
+    color: rgb(15, 15, 15);
+    padding: 8px;
+    outline: none;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+a:hover{
+    color: blanchedalmond;
+}
